@@ -1,3 +1,6 @@
+Adaptive Distribution Transformation Approach for
+ Cryptocurrency Price Prediction
+ 
  Abstract—Cryptocurrency price prediction is challenging due
  to the high volatility of its time-series data, which fluctuates
  significantly even over short periods. While the sliding window
