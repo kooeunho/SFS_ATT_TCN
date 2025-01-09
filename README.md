@@ -27,3 +27,7 @@ tion function (CDF) within each window to mitigate extreme
  Python version: 3.12.4
  
  Pytorch version: 2.4.0
+
+utils.py: Contains specific functions designed to implement the strategies proposed in the paper, including SSA decomposition, TCN, Self-Attention, and others.
+
+train.py: A script to execute the algorithm proposed in the paper using real data.
