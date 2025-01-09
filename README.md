@@ -20,3 +20,6 @@ tion function (CDF) within each window to mitigate extreme
  broad range within the feasible parameter space, demonstrating
  that the strategy is robust and delivers consistent performance
  gains without extensive fine-tuning.
+
+ Python version: 3.12.4
+ Pytorch version: 2.4.0
