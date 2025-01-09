@@ -30,4 +30,4 @@ tion function (CDF) within each window to mitigate extreme
 
 utils.py: Contains specific functions designed to implement the strategies proposed in the paper, including SSA decomposition, TCN, Self-Attention, and others.
 
-train.py: A script to execute the algorithm proposed in the paper using real data.
+train.ipynb: A script to execute the algorithm proposed in the paper using real data.
